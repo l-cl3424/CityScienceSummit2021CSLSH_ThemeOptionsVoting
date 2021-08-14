@@ -3,7 +3,9 @@ This repo includes scripts, data and voting results of City Science Summit 2021 
 
 https://docs.google.com/presentation/d/1yzLogcJIgIAFrKxQ-zCh8NV5dFT1EFwSXyYvCGudABc/edit#slide=id.ge620dcad19_0_6
 
-This voting is inspired by liquid voting: in addition to giving a different number of votes for each topic option, each voter can also give a number of votes to other voters; the votes from those voters who received votes from other voters will be weighted.
+This voting is inspired by liquid voting: in addition to giving a different number of votes for each topic option, each voter can also give a number of votes to other voters; the votes from those voters who received votes from other voters will be weighted. The online voting:
+
+https://www.wjx.cn/vj/exUI8Wq.aspx?v=98
 
 ## Files
 ### rawData_votingResultFromWJX.xlsx
