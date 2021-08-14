@@ -1,5 +1,6 @@
 # CityScienceSummit2021CSLSH_ThemeOptionsVoting
-This repo includes scripts, data and voting results of City Science Summit 2021 CSL@SH Workshop Theme Options, which were consolidated after two rounds of brainstorms and summarizations: https://docs.google.com/presentation/d/1yzLogcJIgIAFrKxQ-zCh8NV5dFT1EFwSXyYvCGudABc/edit#slide=id.ge81264fc6d_0_0
+This repo includes scripts, data and voting results of City Science Summit 2021 CSL@SH Workshop Theme Options, which were consolidated after two rounds of brainstorms and summarizations: 
+https://docs.google.com/presentation/d/1yzLogcJIgIAFrKxQ-zCh8NV5dFT1EFwSXyYvCGudABc/edit#slide=id.ge81264fc6d_0_0
 
 This voting is inspired by liquid voting: in addition to giving a different number of votes for each topic option, each voter can also give a number of votes to other voters; the votes from those voters who received votes from other voters will be weighted.
 
